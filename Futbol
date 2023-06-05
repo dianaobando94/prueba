@@ -1,0 +1,20 @@
+#Equipos participantes
+equipolocal = 'Cali'
+equipovisitante = 'America de Cali'
+
+#Marcador inicial    
+goleslocal = 0
+golesvisitante = 0
+
+#Marcador primer tiempo
+goleslocal+=2
+golesvisitante+=2
+golesvisitante-=1
+
+#Marcador segundo tiempo
+goleslocal+=1
+golesvisitante+=1
+
+
+       
+print(equipolocal,' ',goleslocal,' - ',equipovisitante,' ',golesvisitante)
