@@ -1,9 +1,10 @@
 #Equipos participantes
 equipolocal = 'Cali'
 equipovisitante = 'America de Cali'
+equipovisitante2 = 'America de Cali2'
 
 #Marcador inicial    
-goleslocal = 0
+goleslocal = 1
 golesvisitante = 0
 
 #Marcador primer tiempo
@@ -17,4 +18,4 @@ golesvisitante+=1
 
 
        
-print(equipolocal,' ',goleslocal,' - ',equipovisitante,' ',golesvisitante)
+print(equipolocal,' ',goleslocal,' - ',equipovisitante,' ',golesvisitante,"Prueba",equipovisitante2 )
