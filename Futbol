@@ -17,5 +17,6 @@ goleslocal+=1
 golesvisitante+=1
 
 
+
        
-print(equipolocal,' ',goleslocal,' - ',equipovisitante,' ',golesvisitante,"Prueba",equipovisitante2 )
+print('Rama prueba',equipolocal,' ',goleslocal,' - ',equipovisitante,' ',golesvisitante,"Prueba",equipovisitante2 )
